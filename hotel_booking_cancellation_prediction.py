@@ -69,7 +69,7 @@ import seaborn as sns
 
 # loading the data and setting the unique client_id as the index::
 
-df = pd.read_csv('/content/hotel_bookings (1).csv')
+df = pd.read_csv('https://github.com/KoonFoong/Hotel_Booking_Cancellation_Prediction/blob/main/hotel_bookings.csv')
 d_copy = df
 
 """# **Step 3:Data Exploration**"""
